@@ -20,4 +20,9 @@ public class Parent {
  {
 	 System.out.println("Run me last");
  }
+ 
+ public void last()
+ {
+	 System.out.print("Hi how are you");
+ }
 }
